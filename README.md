@@ -104,8 +104,8 @@ Fun Fact: I turn coffee into code ☕➡️💻
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-0F2027?style=for-the-badge&logo=twitter&logoColor=00F7FF"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-0F2027?style=for-the-badge&logo=instagram&logoColor=00F7FF"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-0F2027?style=for-the-badge&logo=gmail&logoColor=00F7FF"/></a>
-  <a href="https://github.com/Divyansh07477"><img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=00F7FF"/></a>
+  
+ 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:00F7FF,100:0F2027&height=150&section=footer"/>
