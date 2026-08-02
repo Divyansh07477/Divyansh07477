@@ -79,30 +79,72 @@ Fun Fact: I turn coffee into code ☕➡️💻
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<p align="center">
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
 
 <a href="https://github.com/Divyansh07477/Royal-stay">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh07477&repo=Royal-stay&theme=tokyonight&hide_border=true"/>
+
+<img src="./assets/royal.png" width="220"/>
+
+### 👑 Royal Stay
+
+Luxury Hotel Booking Website
+
 </a>
+
+</td>
+
+<td align="center" width="50%">
 
 <a href="https://github.com/Divyansh07477/Shortify">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh07477&repo=Shortify&theme=tokyonight&hide_border=true"/>
+
+<img src="./assets/shortify.png" width="220"/>
+
+### 🔗 Shortify
+
+Modern URL Shortener
+
 </a>
 
-</p>
+</td>
 
-<p align="center">
+</tr>
 
-<a href="https://github.com/Divyansh07477/Amazon-Project">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh07477&repo=Amazon-Project&theme=tokyonight&hide_border=true"/>
-</a>
+<tr>
+
+<td align="center">
 
 <a href="https://github.com/Divyansh07477/Verya-Clone">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh07477&repo=Verya-Clone&theme=tokyonight&hide_border=true"/>
+
+<img src="./assets/veyra.png" width="220"/>
+
+### 👕 Veyra Fashion
+
+Fashion E-Commerce Website
+
 </a>
 
-</p>
+</td>
 
+<td align="center">
+
+<a href="https://github.com/Divyansh07477/Amazon-Project">
+
+<img src="./assets/amazon.png" width="220"/>
+
+### 🛒 Amazon Project
+
+Amazon Frontend Clone
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
