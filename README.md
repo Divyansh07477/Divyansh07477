@@ -86,7 +86,7 @@ Fun Fact: I turn coffee into code ☕➡️💻
 
 <a href="https://github.com/Divyansh07477/Royal-stay">
 
-<img src="./assets/royal.png" width="220"/>
+
 
 ### 👑 Royal Stay
 
@@ -100,7 +100,7 @@ Luxury Hotel Booking Website
 
 <a href="https://github.com/Divyansh07477/Shortify">
 
-<img src="./assets/shortify.png" width="220"/>
+
 
 ### 🔗 Shortify
 
@@ -118,7 +118,7 @@ Modern URL Shortener
 
 <a href="https://github.com/Divyansh07477/Verya-Clone">
 
-<img src="./assets/veyra.png" width="220"/>
+
 
 ### 👕 Veyra Fashion
 
@@ -132,7 +132,7 @@ Fashion E-Commerce Website
 
 <a href="https://github.com/Divyansh07477/Amazon-Project">
 
-<img src="./assets/amazon.png" width="220"/>
+
 
 ### 🛒 Amazon Project
 
