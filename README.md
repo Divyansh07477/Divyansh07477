@@ -45,37 +45,12 @@ Fun Fact: I turn coffee into code ☕➡️💻
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh07477&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh07477&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Divyansh07477/Divyansh07477/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyansh07477&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <h3 align="center">🚀 Featured Projects</h3>
 
 <p align="center">
 
-<a href="https://github.com/Divyansh07477/Royal-Stay">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh07477&repo=Royal-Stay&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Divyansh07477/Royal-stay">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh07477&repo=Royal-stay&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Divyansh07477/Shortify">
@@ -86,24 +61,12 @@ Fun Fact: I turn coffee into code ☕➡️💻
 
 <p align="center">
 
-<a href="https://github.com/Divyansh07477/Amazon-Clone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh07477&repo=Amazon-Clone&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Divyansh07477/Amazon-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh07477&repo=Amazon-Project&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Divyansh07477/Twitter-Clone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh07477&repo=Twitter-Clone&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Divyansh07477/Verya-Clone">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh07477&repo=Verya-Clone&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h3 align="center">🌐 Connect With Me</h3>
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer"/>
