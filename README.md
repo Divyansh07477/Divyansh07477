@@ -172,6 +172,6 @@ Amazon Frontend Clone
 
 <p align="center">
 
-⭐ From <b>Divyansh07477</b> | Thanks for visiting ❤️
+⭐ From <b>Divyansh07477</b> | Thanks for visiting 
 
 </p>
