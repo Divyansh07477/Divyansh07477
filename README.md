@@ -53,29 +53,29 @@ Fun Fact: I turn coffee into code ☕➡️💻
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh07477&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Divyansh07477/Divyansh07477/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Divyansh07477&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+
 </p>
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 <h3 align="center">🚀 Featured Projects</h3>
 
