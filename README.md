@@ -127,7 +127,7 @@ Fun Fact: I turn coffee into code ☕➡️💻
 
 </a>
 
-<p>Fashion E-Commerce Website</p>
+<p>Fashion E-Commerce Clone </p>
 
 </td>
 
