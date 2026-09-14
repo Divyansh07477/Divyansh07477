@@ -7,7 +7,9 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Divyansh07477&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/followers/Divyansh07477?label=Followers&style=for-the-badge&color=00F7FF&logo=github"/>
+
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 
 </div>
@@ -18,7 +20,7 @@
 
 ```yaml
 Name: Divyansh Singh
-Role: Mern Stack Developer
+Role: MERN Stack Developer
 Stack: MERN | Java
 Currently Learning: DSA & MERN
 Goal: 🎯 Software Engineer
@@ -30,69 +32,76 @@ Fun Fact: I turn coffee into code ☕➡️💻
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode,postman&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode,postman&theme=dark"/>
+
 </p>
-<!-- Divider -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h3 align="center">📊 GitHub Stats & Streak</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Divyansh07477&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img width="48%" src="https://streak-stats.demolab.com?user=Divyansh07477&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Divyansh07477&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=Divyansh07477&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh07477&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh07477&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh07477&theme=tokyo-night&hide_border=true&area=true"/>
+
 </p>
 
-<!-- Divider -->
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
 
+<img src="https://raw.githubusercontent.com/Divyansh07477/Divyansh07477/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
 </p>
 
-<!-- Divider -->
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Divyansh07477&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
 </p>
 
-<!-- Divider -->
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h3 align="center">🚀 Featured Projects</h3>
 
 <table align="center">
+
 <tr>
 
 <td align="center" width="50%">
 
 <a href="https://github.com/Divyansh07477/Royal-stay">
 
-
-
-### 👑 Royal Stay
-
-Luxury Hotel Booking Website
+<h3>👑 Royal Stay</h3>
 
 </a>
+
+<p>Luxury Hotel Booking Website</p>
 
 </td>
 
@@ -100,13 +109,11 @@ Luxury Hotel Booking Website
 
 <a href="https://github.com/Divyansh07477/Shortify">
 
-
-
-### 🔗 Shortify
-
-Modern URL Shortener
+<h3>🔗 Shortify</h3>
 
 </a>
+
+<p>Modern URL Shortener</p>
 
 </td>
 
@@ -114,63 +121,66 @@ Modern URL Shortener
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
 <a href="https://github.com/Divyansh07477/Verya-Clone">
 
-
-
-### 👕 Veyra Fashion
-
-Fashion E-Commerce Website
+<h3>👕 Veyra Fashion</h3>
 
 </a>
+
+<p>Fashion E-Commerce Website</p>
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
 <a href="https://github.com/Divyansh07477/Amazon-Project">
 
-
-
-<tr>
-
-<td align="center">
-
-<a href="https://github.com/Divyansh07477/Car-Project">
-
-<img src="https://github.com/Divyansh07477/Car-Project/blob/main/public/images/logo.png"
-     width="120"
-     alt="RideWave">
-
-<br>
-
-<b>🚗 RideWave</b>
+<h3>🛒 Amazon Project</h3>
 
 </a>
 
-<br>
-
-Modern Car Rental Platform
+<p>Amazon Frontend Clone</p>
 
 </td>
 
 </tr>
 
+<tr>
 
-### 🛒 Amazon Project
+<td align="center" width="50%">
 
-Amazon Frontend Clone
+<a href="https://github.com/Divyansh07477/Car-Project">
+
+<h3>🚗 RideWave</h3>
 
 </a>
+
+<p>Modern Car Rental Platform</p>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/Divyansh07477/Car-Project">
+
+<img src="https://github.com/Divyansh07477/Car-Project/blob/main/public/images/logo.png" width="100" alt="RideWave"/>
+
+<br/>
+
+<b>RideWave Car Rental</b>
+
+</a>
+
+<p>MERN Stack Car Rental Website</p>
 
 </td>
 
 </tr>
 
 </table>
-<!-- Divider -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h3 align="center">🌐 Connect With Me</h3>
@@ -178,25 +188,29 @@ Amazon Frontend Clone
 <p align="center">
 
 <a href="https://github.com/Divyansh07477">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://www.instagram.com/">
+
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
 </a>
 
 </p>
-
-<!-- Footer -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=150&section=footer"/>
 
 <p align="center">
 
-⭐ From <b>Divyansh07477</b> | Thanks for visiting 
+⭐ From <b>Divyansh07477</b> | Thanks for visiting 🚀
 
 </p>
