@@ -134,6 +134,31 @@ Fashion E-Commerce Website
 
 
 
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/Divyansh07477/Car-Project">
+
+<img src="https://github.com/Divyansh07477/Car-Project/blob/main/public/images/logo.png"
+     width="120"
+     alt="RideWave">
+
+<br>
+
+<b>🚗 RideWave</b>
+
+</a>
+
+<br>
+
+Modern Car Rental Platform
+
+</td>
+
+</tr>
+
+
 ### 🛒 Amazon Project
 
 Amazon Frontend Clone
