@@ -161,21 +161,7 @@ Fun Fact: I turn coffee into code ☕➡️💻
 
 </td>
 
-<td align="center" width="50%">
 
-<a href="https://github.com/Divyansh07477/Car-Project">
-
-<img src="https://github.com/Divyansh07477/Car-Project/blob/main/public/images/logo.png" width="100" alt="RideWave"/>
-
-<br/>
-
-<b>RideWave Car Rental</b>
-
-</a>
-
-<p>MERN Stack Car Rental Website</p>
-
-</td>
 
 </tr>
 
