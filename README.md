@@ -71,7 +71,7 @@ Fun Fact: I turn coffee into code ☕➡️💻
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Divyansh07477/Divyansh07477/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
 
 </p>
 
